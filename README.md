@@ -17,3 +17,17 @@ Save Playlist: After adding songs, save the playlist with a custom name.
 Access Saved Playlists: View your saved playlists and load them into the app.
 
 Clear Playlist: Remove all songs from the current playlist and start fresh.
+
+
+## Setup
+1. Clone the repository: `git clone https://github.com/jcallinan/myplaylist-app.git`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run dev`
+4. Open `http://localhost:5173` in your browser.
+
+## Scripts
+- `npm run dev`: Start the development server.
+- `npm run build`: Build the app for production.
+- `npm run test`: Run tests.
+- `npm run lint`: Lint the code.
+- `npm run format`: Format the code with Prettier.
